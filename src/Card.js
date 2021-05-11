@@ -7,7 +7,7 @@ function Card(){
     const [people, setPeople] = useState([
         {
             name: 'Ash Ketchum',
-            url: 'https://cdn2.bulbagarden.net/upload/thumb/c/cd/Ash_JN.png/150px-Ash_JN.png'
+            url: 'https://cdn2.bulbagarden.net/upload/thumb/2/21/Baron_Ash.png/428px-Baron_Ash.png'
         },
         {
             name: 'Gary Oak',
